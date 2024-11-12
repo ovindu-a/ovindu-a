@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-[![Ovindu Atukorala profile views](https://u8views.com/api/v1/github/profiles/72530078/views/day-week-month-total-count.svg)](https://u8views.com/github/ovindu-a)
+<!--
+[![Ovindu Atukorala profile views](https://u8views.com/api/v1/github/profiles/72530078/views/day-week-month-total-count.svg)](https://u8views.com/github/ovindu-a)   
+-->
 ![](https://komarev.com/ghpvc/?username=ovindu-a)
+
 
 <!--
 **ovindu-a/ovindu-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
